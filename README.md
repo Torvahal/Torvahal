@@ -1,7 +1,7 @@
 ## Hi I'm Torvahal
 
-Hi, it's torvahal, 
-I am an apprentice developer, 
+Hi, it's torvahal, <br>
+I am an apprentice developer, <br>
 I travel the world of French and English World Of Warcraft emulation to improve myself.
 
 
@@ -23,5 +23,3 @@ I travel the world of French and English World Of Warcraft emulation to improve 
 
 ## My Projects
 - 🔧 I’m currently working on [Haz'Garoth](https://hazgaroth.fr/)<br/>
-
-
