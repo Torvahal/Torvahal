@@ -14,10 +14,10 @@ I travel the world of French and English World Of Warcraft emulation to improve 
     <td>  <b>SQL</b>  </td>
   </tr>
   <tr>
-    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> </td>
     <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png">  </td>
-    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> </td>
-    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> </td>
+    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png">  </td>
+    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png">  </td>
+    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png">  </td>
   </tr>
 </table>
 
